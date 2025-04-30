@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*IPZto_chtq-97A2J7gKjLA.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Titon Meisya Kresna</h1>
 <h3 align="center">A passionate in web development from Indonesian. Recently i learning some Javascript Stack like MERN or Next.js etc and PHP in Laravel.</h3>
 
