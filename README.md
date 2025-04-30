@@ -1,9 +1,9 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*IPZto_chtq-97A2J7gKjLA.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*o1VQUypTIv6q5eIKsWPOuQ.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Titon Meisya Kresna</h1>
 <h3 align="center">A passionate in web development from Indonesian. Recently i learning some Javascript Stack like MERN or Next.js etc and PHP in Laravel.</h3>
 
-<img align="right" width="500" src="https://cdn.dribbble.com/userupload/23854044/file/original-5e84ed56c6b3568265f5fafb6a8e4ecc.gif" alt="coding" />
+<img align="right" width="400" src="https://cdn.dribbble.com/userupload/23854044/file/original-5e84ed56c6b3568265f5fafb6a8e4ecc.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titon19&label=Profile%20views&color=0e75b6&style=flat" alt="titon19" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Next.js, MERN, Laravel**
 
-- 👨‍💻 All of my projects are available at [titon.vercel.app](titon.vercel.app)
+- 👨‍💻 All of my projects are available at [titon.vercel.app](https://titon.vercel.app/)
 
 - 💬 Ask me about **Laravel development, and react**
 
