@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*o1VQUypTIv6q5eIKsWPOuQ.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Titon Meisya Kresna</h1>
-<h3 align="center">A passionate in web development from Indonesian. Recently i learning some Javascript Stack like MERN or Next.js etc and PHP in Laravel.</h3>
+<h3 align="center">A passionate in web development, iam indonesian, Iam study, greduate and I live in Serang City since I was little. Recently, I learning some Javascript Stack like MERN or Next.js etc and PHP in Laravel.</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/userupload/23854044/file/original-5e84ed56c6b3568265f5fafb6a8e4ecc.gif" alt="coding" />
 
