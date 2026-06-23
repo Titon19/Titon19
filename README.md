@@ -38,11 +38,3 @@ I am a results-oriented Fullstack Web Developer based in Serang, Indonesia. With
 | **DevOps & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=black) |
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=titon19&show_icons=true&locale=en&layout=compact&theme=visual_studio" alt="Top Languages" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=titon19&show_icons=true&locale=en&theme=visual_studio" alt="GitHub Stats" height="165" />
-</p>
