@@ -38,3 +38,18 @@ I am a results-oriented Fullstack Web Developer based in Serang, Indonesia. With
 | **DevOps & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=black) |
 
 ---
+### 🐍 GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/titon19/titon19/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/titon19/titon19/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Grid Snake Animation" src="https://raw.githubusercontent.com/titon19/titon19/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=titon19&show_icons=true&locale=en&layout=compact&theme=visual_studio" alt="Top Languages" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=titon19&show_icons=true&locale=en&theme=visual_studio" alt="GitHub Stats" height="165" />
+</p>
