@@ -43,10 +43,12 @@ I am a results-oriented Fullstack Web Developer based in Serang, Indonesia. With
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/titon19/titon19/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/titon19/titon19/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Grid Snake Animation" src="https://raw.githubusercontent.com/titon19/titon19/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/titon19/titon19/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=titon19&show_icons=true&locale=en&layout=compact&theme=visual_studio" alt="Top Languages" height="165" />
