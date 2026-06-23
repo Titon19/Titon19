@@ -41,15 +41,8 @@ I am a results-oriented Fullstack Web Developer based in Serang, Indonesia. With
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=titon19&show_icons=true&locale=en&layout=compact&theme=visual_studio" alt="Top Languages" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=titon19&show_icons=true&locale=en&theme=visual_studio" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=titon19&show_icons=true&locale=en&layout=compact&theme=visual_studio" alt="Top Languages" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=titon19&show_icons=true&locale=en&theme=visual_studio" alt="GitHub Stats" height="165" />
+</p>
